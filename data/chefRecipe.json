@@ -1,0 +1,63 @@
+[
+      {
+        "id": 1,
+        "image_url": "https://example.com/chef1.jpg",
+        "details": {
+          "name": "John Smith",
+          "bio": "John Smith is a seasoned chef with over 20 years of experience in the culinary arts. He specializes in Italian cuisine and is known for his handmade pasta dishes.",
+          "location": "New York, NY",
+          "contact": {
+            "email": "john.smith@example.com",
+            "phone": "(123) 456-7890"
+          },
+          "experience": "20+ years",
+          "rating": 4.9
+        },
+        "recipes":[
+            {
+              "recipe_name": "Spaghetti Carbonara",
+              "image_url": "https://example.com/spaghetti_carbonara.jpg",
+              "description": "A classic Italian dish featuring spaghetti, pancetta, and a creamy sauce made with eggs and Parmesan cheese.",
+              "ingredients": [
+                "1 pound spaghetti",
+                "4 ounces pancetta or bacon, diced",
+                "4 large eggs",
+                "1 cup grated Parmesan cheese",
+                "1/2 cup heavy cream",
+                "Salt and black pepper to taste"
+              ],
+              "instructions": [
+                "Cook the spaghetti according to package directions until al dente.",
+                "While the pasta cooks, cook the pancetta in a large skillet over medium heat until crisp.",
+                "In a bowl, whisk together the eggs, Parmesan cheese, and heavy cream.",
+                "Drain the pasta and immediately add it to the skillet with the pancetta. Toss to combine.",
+                "Remove the skillet from the heat and pour in the egg mixture. Toss well to coat the pasta and cook the eggs slightly with the residual heat.",
+                "Season with salt and black pepper to taste.",
+                "Serve hot, garnished with additional Parmesan cheese if desired."
+              ]
+            },
+            {
+              "recipe_name": "Margherita Pizza",
+              "image_url": "https://example.com/margherita_pizza.jpg",
+              "description": "A simple and classic pizza featuring tomato sauce, mozzarella cheese, and fresh basil.",
+              "ingredients": [
+                "1 pound pizza dough",
+                "1/2 cup tomato sauce",
+                "8 ounces mozzarella cheese, shredded",
+                "Fresh basil leaves"
+              ],
+              "instructions": [
+                "Preheat the oven to 500°F.",
+                "Roll out the pizza dough on a lightly floured surface to your desired thickness and shape.",
+                "Spread the tomato sauce evenly over the dough, leaving a small border around the edge.",
+                "Sprinkle the shredded mozzarella cheese over the sauce.",
+                "Bake the pizza in the preheated oven for 10-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+                "Remove the pizza from the oven and top with fresh basil leaves.",
+                "Slice and serve hot."
+              ]
+            }
+        ]
+        
+      }
+    ]
+  

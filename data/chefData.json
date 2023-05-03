@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "picture": "https://img.freepik.com/premium-photo/cropped-shot-young-male-chef-preparing-meal-professional-kitchen_579247-36.jpg?w=740",
+        "name": "John Smith",
+        "experience": "20+ years",
+        "details": "John Smith is a renowned chef with a passion for creating unique and delicious dishes. He has worked in some of the world's most prestigious kitchens, honing his skills and developing his own signature style. With over 20 years of experience in the culinary industry, John has earned a reputation as a master chef and is known for his creativity, attention to detail, and commitment to using only the freshest and highest quality ingredients.",
+        "recipes": [
+          {
+            "id": 1,
+            "title": "Grilled Salmon with Lemon Butter",
+            "ingredients": ["salmon fillets", "butter", "lemon juice", "garlic", "salt", "pepper"],
+            "directions": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt the butter over low heat. Add the garlic and cook until fragrant, about 1 minute. \n3. Add the lemon juice, salt, and pepper and stir to combine. \n4. Brush the salmon fillets with the lemon butter and place on the grill. \n5. Grill for 6-8 minutes per side, or until the salmon is cooked through. \n6. Serve hot with additional lemon butter sauce drizzled over the top.",
+            "imageUrl": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg"
+          },
+          {
+            "id": 2,
+            "title": "Roasted Chicken with Herbs",
+            "ingredients": ["whole chicken", "olive oil", "rosemary", "thyme", "sage", "garlic", "salt", "pepper"],
+            "directions": "1. Preheat oven to 425°F. \n2. Rinse the chicken inside and out with cold water and pat dry with paper towels. \n3. In a small bowl, combine the olive oil, herbs, garlic, salt, and pepper. \n4. Rub the herb mixture all over the chicken, making sure to get it under the skin as well. \n5. Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. \n6. Let the chicken rest for 10 minutes before carving and serving.",
+            "imageUrl": "https://recipeteacher.com/wp-content/uploads/2021/12/air-fryer-herb-roasted-chicken-legs-1.jpg.webp"
+          }
+        ],
+        "rating": 4.8,
+        "peopleRated": 123
+      },
+      {
+        "id": 2,
+        "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683112259~exp=1683112859~hmac=dd5b091a557d93d0e63e74af839c496570a1e7fdb2e43abc8405b9985ca36572",
+        "name": "John Smith",
+        "experience": "20+ years",
+        "details": "John Smith is a renowned chef with a passion for creating unique and delicious dishes. He has worked in some of the world's most prestigious kitchens, honing his skills and developing his own signature style. With over 20 years of experience in the culinary industry, John has earned a reputation as a master chef and is known for his creativity, attention to detail, and commitment to using only the freshest and highest quality ingredients.",
+        "recipes": [
+          {
+            "id": 1,
+            "title": "Spaghetti Carbonara",
+            "ingredients": [
+                "1 pound spaghetti",
+                "4 ounces pancetta or bacon, diced",
+                "4 large eggs",
+                "1 cup grated Parmesan cheese",
+                "1/2 cup heavy cream",
+                "Salt and black pepper to taste"
+              ],
+            "directions": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt the butter over low heat. Add the garlic and cook until fragrant, about 1 minute. \n3. Add the lemon juice, salt, and pepper and stir to combine. \n4. Brush the salmon fillets with the lemon butter and place on the grill. \n5. Grill for 6-8 minutes per side, or until the salmon is cooked through. \n6. Serve hot with additional lemon butter sauce drizzled over the top.",
+            "imageUrl": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-master768-v2.jpg?w=1280&q=75"
+          },
+          {
+            "id": 2,
+            "title": "Margherita Pizza",
+            "ingredients": [
+                "1 pound pizza dough",
+                "1/2 cup tomato sauce",
+                "8 ounces mozzarella cheese, shredded",
+                "Fresh basil leaves"
+              ],
+            "directions": "1. Preheat oven to 425°F. \n2. Rinse the chicken inside and out with cold water and pat dry with paper towels. \n3. In a small bowl, combine the olive oil, herbs, garlic, salt, and pepper. \n4. Rub the herb mixture all over the chicken, making sure to get it under the skin as well. \n5. Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. \n6. Let the chicken rest for 10 minutes before carving and serving.",
+            "imageUrl": "https://recipes.heart.org/-/media/AHA/Recipe/Recipe-Images/Classic-Margherita-Pizza-with-Whole-Wheat-Pizza-Crust.jpg"
+          }
+        ],
+        "rating": 4.8,
+        "peopleRated": 123
+      }
+      
+]
