@@ -1,45 +1,55 @@
 [
   {
     "id": 1,
+    "picture": "https://img.freepik.com/premium-photo/cropped-shot-young-male-chef-preparing-meal-professional-kitchen_579247-36.jpg?w=740",
+    "name": "Kane Williums",
+    "experience": "20+ years",
+    "details": "John Smith is a renowned chef with a passion for creating unique and delicious dishes. He has worked in some of the world's most prestigious kitchens, honing his skills and developing his own signature style.",
     "recipes": [
       {
+        "recipe_id": 1,
+        "rating": 4.3,
         "recipe_name": "Grilled Salmon with Lemon Butter",
         "image_url": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg",
         "ingredients": [
-          "salmon fillets",
-          "butter",
-          "lemon juice",
-          "garlic",
-          "salt",
-          "pepper"
+          "salmon fillets, \n",
+          "butter,\n",
+          "lemon juice,\n",
+          "garlic,\n",
+          "salt,\n",
+          "pepper\n"
         ],
         "directions": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt the butter over low heat. Add the garlic and cook until fragrant, about 1 minute. \n3. Add the lemon juice, salt, and pepper and stir to combine. \n4. Brush the salmon fillets with the lemon butter and place on the grill. \n5. Grill for 6-8 minutes per side, or until the salmon is cooked through. \n6. Serve hot with additional lemon butter sauce drizzled over the top."
       },
       {
+        "recipe_id": 2,
+        "rating": 4.0,
         "recipe_name": "Roasted Chicken with Herbs",
         "image_url": "https://recipeteacher.com/wp-content/uploads/2021/12/air-fryer-herb-roasted-chicken-legs-1.jpg.webp",
         "ingredients": [
-          "whole chicken",
-          "olive oil",
-          "rosemary",
-          "thyme",
-          "sage",
-          "garlic",
-          "salt",
-          "pepper"
+          "whole chicken,\n",
+          "olive oil,\n",
+          "rosemary,\n",
+          "thyme,\n",
+          "sage,\n",
+          "garlic,\n",
+          "salt,\n",
+          "pepper\n"
         ],
         "directions": "1. Preheat oven to 425°F. \n2. Rinse the chicken inside and out with cold water and pat dry with paper towels. \n3. In a small bowl, combine the olive oil, herbs, garlic, salt, and pepper. \n4. Rub the herb mixture all over the chicken, making sure to get it under the skin as well. \n5. Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. \n6. Let the chicken rest for 10 minutes before carving and serving."
       },
       {
+        "recipe_id": 3,
+        "rating": 4.8,
         "recipe_name": "Spaghetti Carbonara",
         "image_url": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-master768-v2.jpg?w=1280&q=75",
         "ingredients": [
-          "1 pound spaghetti",
-          "4 ounces pancetta or bacon, diced",
-          "4 large eggs",
-          "1 cup grated Parmesan cheese",
-          "1/2 cup heavy cream",
-          "Salt and black pepper to taste"
+          "1 pound spaghetti,\n",
+          "4 ounces pancetta or bacon, diced,\n",
+          "4 large eggs,\n",
+          "1 cup grated Parmesan cheese,\n",
+          "1/2 cup heavy cream,\n",
+          "Salt and black pepper to taste\n"
         ],
         "directions": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt the butter over low heat. Add the garlic and cook until fragrant, about 1 minute. \n3. Add the lemon juice, salt, and pepper and stir to combine. \n4. Brush the salmon fillets with the lemon butter and place on the grill. \n5. Grill for 6-8 minutes per side, or until the salmon is cooked through. \n6. Serve hot with additional lemon butter sauce drizzled over the top."
       }
@@ -47,10 +57,16 @@
   },
   {
     "id": 2,
+    "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683112259~exp=1683112859~hmac=dd5b091a557d93d0e63e74af839c496570a1e7fdb2e43abc8405b9985ca36572",
+    "name": "John Smith",
+    "experience": "15+ years",
+    "details": "John Smith is a renowned chef with a passion for creating unique and delicious dishes. He has worked in some of the world's most prestigious kitchens, honing his skills and developing his own signature style.",
     "recipes": [
       {
-        "recipe_name": "Margherita Pizza",
-        "imageUrl": "https://recipes.heart.org/-/media/AHA/Recipe/Recipe-Images/Classic-Margherita-Pizza-with-Whole-Wheat-Pizza-Crust.jpg",
+        "recipe_id": 1,
+        "rating": 4.2,
+        "recipe_name": "Fish Tikka",
+        "image_url": "https://vaya.in/recipes/wp-content/uploads/2018/03/Fish-Tikka.jpg",
         "ingredients": [
           "1 pound pizza dough",
           "1/2 cup tomato sauce",
@@ -60,30 +76,250 @@
         "directions": "1. Preheat oven to 425°F. \n2. Rinse the chicken inside and out with cold water and pat dry with paper towels. \n3. In a small bowl, combine the olive oil, herbs, garlic, salt, and pepper. \n4. Rub the herb mixture all over the chicken, making sure to get it under the skin as well. \n5. Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. \n6. Let the chicken rest for 10 minutes before carving and serving."
       },
       {
+        "recipe_id": 2,
+        "rating": 3.8,
         "recipe_name": "Roasted Chicken with Herbs",
         "image_url": "https://recipeteacher.com/wp-content/uploads/2021/12/air-fryer-herb-roasted-chicken-legs-1.jpg.webp",
         "ingredients": [
-          "whole chicken",
-          "olive oil",
-          "rosemary",
-          "thyme",
-          "sage",
-          "garlic",
-          "salt",
-          "pepper"
+          "whole chicken,\n",
+          "olive oil,\n",
+          "rosemary,\n",
+          "thyme,\n",
+          "sage,\n",
+          "garlic,\n",
+          "salt,\n",
+          "pepper\n"
         ],
         "directions": "1. Preheat oven to 425°F. \n2. Rinse the chicken inside and out with cold water and pat dry with paper towels. \n3. In a small bowl, combine the olive oil, herbs, garlic, salt, and pepper. \n4. Rub the herb mixture all over the chicken, making sure to get it under the skin as well. \n5. Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. \n6. Let the chicken rest for 10 minutes before carving and serving."
       },
       {
+        "recipe_id": 3,
+        "rating": 4.3,
         "recipe_name": "Grilled Salmon with Lemon Butter",
         "image_url": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg",
         "ingredients": [
-          "salmon fillets",
-          "butter",
-          "lemon juice",
-          "garlic",
-          "salt",
-          "pepper"
+          "salmon fillets,\n",
+          "butter,\n",
+          "lemon juice,\n",
+          "garlic,\n",
+          "salt,\n",
+          "pepper.\n"
+        ],
+        "directions": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt the butter over low heat. Add the garlic and cook until fragrant, about 1 minute. \n3. Add the lemon juice, salt, and pepper and stir to combine. \n4. Brush the salmon fillets with the lemon butter and place on the grill. \n5. Grill for 6-8 minutes per side, or until the salmon is cooked through. \n6. Serve hot with additional lemon butter sauce drizzled over the top."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "picture": "https://st3.depositphotos.com/9881890/17718/i/600/depositphotos_177187498-stock-photo-smiling-chef-holding-plate-pasta.jpg",
+    "name": "Watson",
+    "experience": "17+ years",
+    "details": "John Smith is a renowned chef with a passion for creating unique and delicious dishes. He has worked in some of the world's most prestigious kitchens, honing his skills and developing his own signature style.",
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "rating": 4.2,
+        "recipe_name": "Fish Tikka",
+        "image_url": "https://vaya.in/recipes/wp-content/uploads/2018/03/Fish-Tikka.jpg",
+        "ingredients": [
+          "1 pound pizza dough",
+          "1/2 cup tomato sauce",
+          "8 ounces mozzarella cheese, shredded",
+          "Fresh basil leaves"
+        ],
+        "directions": "1. Preheat oven to 425°F. \n2. Rinse the chicken inside and out with cold water and pat dry with paper towels. \n3. In a small bowl, combine the olive oil, herbs, garlic, salt, and pepper. \n4. Rub the herb mixture all over the chicken, making sure to get it under the skin as well. \n5. Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. \n6. Let the chicken rest for 10 minutes before carving and serving."
+      },
+      {
+        "recipe_id": 2,
+        "rating": 3.8,
+        "recipe_name": "Roasted Chicken with Herbs",
+        "image_url": "https://recipeteacher.com/wp-content/uploads/2021/12/air-fryer-herb-roasted-chicken-legs-1.jpg.webp",
+        "ingredients": [
+          "whole chicken,\n",
+          "olive oil,\n",
+          "rosemary,\n",
+          "thyme,\n",
+          "sage,\n",
+          "garlic,\n",
+          "salt,\n",
+          "pepper\n"
+        ],
+        "directions": "1. Preheat oven to 425°F. \n2. Rinse the chicken inside and out with cold water and pat dry with paper towels. \n3. In a small bowl, combine the olive oil, herbs, garlic, salt, and pepper. \n4. Rub the herb mixture all over the chicken, making sure to get it under the skin as well. \n5. Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. \n6. Let the chicken rest for 10 minutes before carving and serving."
+      },
+      {
+        "recipe_id": 3,
+        "rating": 4.3,
+        "recipe_name": "Grilled Salmon with Lemon Butter",
+        "image_url": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg",
+        "ingredients": [
+          "salmon fillets,\n",
+          "butter,\n",
+          "lemon juice,\n",
+          "garlic,\n",
+          "salt,\n",
+          "pepper.\n"
+        ],
+        "directions": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt the butter over low heat. Add the garlic and cook until fragrant, about 1 minute. \n3. Add the lemon juice, salt, and pepper and stir to combine. \n4. Brush the salmon fillets with the lemon butter and place on the grill. \n5. Grill for 6-8 minutes per side, or until the salmon is cooked through. \n6. Serve hot with additional lemon butter sauce drizzled over the top."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "picture": "https://static5.depositphotos.com/1003434/514/i/450/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
+    "name": "Jonny Briston",
+    "experience": "20+ years",
+    "details": "John Smith is a renowned chef with a passion for creating unique and delicious dishes. He has worked in some of the world's most prestigious kitchens, honing his skills and developing his own signature style.",
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "rating": 4.2,
+        "recipe_name": "Fish Tikka",
+        "image_url": "https://vaya.in/recipes/wp-content/uploads/2018/03/Fish-Tikka.jpg",
+        "ingredients": [
+          "1 pound pizza dough",
+          "1/2 cup tomato sauce",
+          "8 ounces mozzarella cheese, shredded",
+          "Fresh basil leaves"
+        ],
+        "directions": "1. Preheat oven to 425°F. \n2. Rinse the chicken inside and out with cold water and pat dry with paper towels. \n3. In a small bowl, combine the olive oil, herbs, garlic, salt, and pepper. \n4. Rub the herb mixture all over the chicken, making sure to get it under the skin as well. \n5. Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. \n6. Let the chicken rest for 10 minutes before carving and serving."
+      },
+      {
+        "recipe_id": 2,
+        "rating": 3.8,
+        "recipe_name": "Roasted Chicken with Herbs",
+        "image_url": "https://recipeteacher.com/wp-content/uploads/2021/12/air-fryer-herb-roasted-chicken-legs-1.jpg.webp",
+        "ingredients": [
+          "whole chicken,\n",
+          "olive oil,\n",
+          "rosemary,\n",
+          "thyme,\n",
+          "sage,\n",
+          "garlic,\n",
+          "salt,\n",
+          "pepper\n"
+        ],
+        "directions": "1. Preheat oven to 425°F. \n2. Rinse the chicken inside and out with cold water and pat dry with paper towels. \n3. In a small bowl, combine the olive oil, herbs, garlic, salt, and pepper. \n4. Rub the herb mixture all over the chicken, making sure to get it under the skin as well. \n5. Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. \n6. Let the chicken rest for 10 minutes before carving and serving."
+      },
+      {
+        "recipe_id": 3,
+        "rating": 4.3,
+        "recipe_name": "Grilled Salmon with Lemon Butter",
+        "image_url": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg",
+        "ingredients": [
+          "salmon fillets,\n",
+          "butter,\n",
+          "lemon juice,\n",
+          "garlic,\n",
+          "salt,\n",
+          "pepper.\n"
+        ],
+        "directions": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt the butter over low heat. Add the garlic and cook until fragrant, about 1 minute. \n3. Add the lemon juice, salt, and pepper and stir to combine. \n4. Brush the salmon fillets with the lemon butter and place on the grill. \n5. Grill for 6-8 minutes per side, or until the salmon is cooked through. \n6. Serve hot with additional lemon butter sauce drizzled over the top."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "picture": "https://st3.depositphotos.com/9881890/15827/i/600/depositphotos_158273282-stock-photo-chef-with-doughnuts-on-plate.jpg",
+    "name": "David Willy",
+    "experience": "12+ years",
+    "details": "John Smith is a renowned chef with a passion for creating unique and delicious dishes. He has worked in some of the world's most prestigious kitchens, honing his skills and developing his own signature style.",
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "rating": 4.2,
+        "recipe_name": "Fish Tikka",
+        "image_url": "https://vaya.in/recipes/wp-content/uploads/2018/03/Fish-Tikka.jpg",
+        "ingredients": [
+          "1 pound pizza dough",
+          "1/2 cup tomato sauce",
+          "8 ounces mozzarella cheese, shredded",
+          "Fresh basil leaves"
+        ],
+        "directions": "1. Preheat oven to 425°F. \n2. Rinse the chicken inside and out with cold water and pat dry with paper towels. \n3. In a small bowl, combine the olive oil, herbs, garlic, salt, and pepper. \n4. Rub the herb mixture all over the chicken, making sure to get it under the skin as well. \n5. Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. \n6. Let the chicken rest for 10 minutes before carving and serving."
+      },
+      {
+        "recipe_id": 2,
+        "rating": 3.8,
+        "recipe_name": "Roasted Chicken with Herbs",
+        "image_url": "https://recipeteacher.com/wp-content/uploads/2021/12/air-fryer-herb-roasted-chicken-legs-1.jpg.webp",
+        "ingredients": [
+          "whole chicken,\n",
+          "olive oil,\n",
+          "rosemary,\n",
+          "thyme,\n",
+          "sage,\n",
+          "garlic,\n",
+          "salt,\n",
+          "pepper\n"
+        ],
+        "directions": "1. Preheat oven to 425°F. \n2. Rinse the chicken inside and out with cold water and pat dry with paper towels. \n3. In a small bowl, combine the olive oil, herbs, garlic, salt, and pepper. \n4. Rub the herb mixture all over the chicken, making sure to get it under the skin as well. \n5. Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. \n6. Let the chicken rest for 10 minutes before carving and serving."
+      },
+      {
+        "recipe_id": 3,
+        "rating": 4.3,
+        "recipe_name": "Grilled Salmon with Lemon Butter",
+        "image_url": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg",
+        "ingredients": [
+          "salmon fillets,\n",
+          "butter,\n",
+          "lemon juice,\n",
+          "garlic,\n",
+          "salt,\n",
+          "pepper.\n"
+        ],
+        "directions": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt the butter over low heat. Add the garlic and cook until fragrant, about 1 minute. \n3. Add the lemon juice, salt, and pepper and stir to combine. \n4. Brush the salmon fillets with the lemon butter and place on the grill. \n5. Grill for 6-8 minutes per side, or until the salmon is cooked through. \n6. Serve hot with additional lemon butter sauce drizzled over the top."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "picture": "https://st3.depositphotos.com/1177973/18345/i/600/depositphotos_183454984-stock-photo-beautiful-female-chef-on-color.jpg",
+    "name": "Sarah TayLor",
+    "experience": "14+ years",
+    "details": "John Smith is a renowned chef with a passion for creating unique and delicious dishes. He has worked in some of the world's most prestigious kitchens, honing his skills and developing his own signature style.",
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "rating": 4.2,
+        "recipe_name": "Fish Tikka",
+        "image_url": "https://vaya.in/recipes/wp-content/uploads/2018/03/Fish-Tikka.jpg",
+        "ingredients": [
+          "1 pound pizza dough",
+          "1/2 cup tomato sauce",
+          "8 ounces mozzarella cheese, shredded",
+          "Fresh basil leaves"
+        ],
+        "directions": "1. Preheat oven to 425°F. \n2. Rinse the chicken inside and out with cold water and pat dry with paper towels. \n3. In a small bowl, combine the olive oil, herbs, garlic, salt, and pepper. \n4. Rub the herb mixture all over the chicken, making sure to get it under the skin as well. \n5. Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. \n6. Let the chicken rest for 10 minutes before carving and serving."
+      },
+      {
+        "recipe_id": 2,
+        "rating": 3.8,
+        "recipe_name": "Roasted Chicken with Herbs",
+        "image_url": "https://recipeteacher.com/wp-content/uploads/2021/12/air-fryer-herb-roasted-chicken-legs-1.jpg.webp",
+        "ingredients": [
+          "whole chicken,\n",
+          "olive oil,\n",
+          "rosemary,\n",
+          "thyme,\n",
+          "sage,\n",
+          "garlic,\n",
+          "salt,\n",
+          "pepper\n"
+        ],
+        "directions": "1. Preheat oven to 425°F. \n2. Rinse the chicken inside and out with cold water and pat dry with paper towels. \n3. In a small bowl, combine the olive oil, herbs, garlic, salt, and pepper. \n4. Rub the herb mixture all over the chicken, making sure to get it under the skin as well. \n5. Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. \n6. Let the chicken rest for 10 minutes before carving and serving."
+      },
+      {
+        "recipe_id": 3,
+        "rating": 4.3,
+        "recipe_name": "Grilled Salmon with Lemon Butter",
+        "image_url": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg",
+        "ingredients": [
+          "salmon fillets,\n",
+          "butter,\n",
+          "lemon juice,\n",
+          "garlic,\n",
+          "salt,\n",
+          "pepper.\n"
         ],
         "directions": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt the butter over low heat. Add the garlic and cook until fragrant, about 1 minute. \n3. Add the lemon juice, salt, and pepper and stir to combine. \n4. Brush the salmon fillets with the lemon butter and place on the grill. \n5. Grill for 6-8 minutes per side, or until the salmon is cooked through. \n6. Serve hot with additional lemon butter sauce drizzled over the top."
       }

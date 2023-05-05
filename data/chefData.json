@@ -2,38 +2,57 @@
     {
         "id": 1,
         "picture": "https://img.freepik.com/premium-photo/cropped-shot-young-male-chef-preparing-meal-professional-kitchen_579247-36.jpg?w=740",
-        "name": "John Smith",
+        "name": "Kane Williums",
         "experience": "20+ years",
         "details": "John Smith is a renowned chef with a passion for creating unique and delicious dishes. He has worked in some of the world's most prestigious kitchens, honing his skills and developing his own signature style.",
-        "rating": 4.8,
-        "peopleRated": 123
+        "peopleRated": 1223,
+        "items":"21+ Recipes"
       },
       {
         "id": 2,
         "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683112259~exp=1683112859~hmac=dd5b091a557d93d0e63e74af839c496570a1e7fdb2e43abc8405b9985ca36572",
         "name": "John Smith",
-        "experience": "20+ years",
+        "experience": "15+ years",
         "details": "John Smith is a renowned chef with a passion for creating unique and delicious dishes. He has worked in some of the world's most prestigious kitchens, honing his skills and developing his own signature style.",
-        "rating": 4.8,
-        "peopleRated": 123
+        
+        "peopleRated": 2523,
+        "items":"30+ Recipes"
       },
       {
         "id": 3,
-        "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683112259~exp=1683112859~hmac=dd5b091a557d93d0e63e74af839c496570a1e7fdb2e43abc8405b9985ca36572",
-        "name": "John Smith",
-        "experience": "20+ years",
+        "picture": "https://st3.depositphotos.com/9881890/17718/i/600/depositphotos_177187498-stock-photo-smiling-chef-holding-plate-pasta.jpg",
+        "name": "Watson",
+        "experience": "17+ years",
         "details": "John Smith is a renowned chef with a passion for creating unique and delicious dishes. He has worked in some of the world's most prestigious kitchens, honing his skills and developing his own signature style.",
-        "rating": 4.8,
-        "peopleRated": 123
+        "peopleRated": 1506,
+        "items":"25+ Recipes"
       },
       {
         "id": 4,
-        "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683112259~exp=1683112859~hmac=dd5b091a557d93d0e63e74af839c496570a1e7fdb2e43abc8405b9985ca36572",
-        "name": "John Smith",
+        "picture": "https://static5.depositphotos.com/1003434/514/i/450/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
+        "name": "Jonny Briston",
         "experience": "20+ years",
         "details": "John Smith is a renowned chef with a passion for creating unique and delicious dishes. He has worked in some of the world's most prestigious kitchens, honing his skills and developing his own signature style.",
-        "rating": 4.8,
-        "peopleRated": 123
+        "peopleRated": 2136,
+        "items":"35+ Recipes"
+      },
+      {
+        "id": 5,
+        "picture": "https://st3.depositphotos.com/9881890/15827/i/600/depositphotos_158273282-stock-photo-chef-with-doughnuts-on-plate.jpg",
+        "name": "David Willy",
+        "experience": "12+ years",
+        "details": "John Smith is a renowned chef with a passion for creating unique and delicious dishes. He has worked in some of the world's most prestigious kitchens, honing his skills and developing his own signature style.",
+        "peopleRated": 2136,
+        "items":"40+ Recipes"
+      },
+      {
+        "id": 6,
+        "picture": "https://st3.depositphotos.com/1177973/18345/i/600/depositphotos_183454984-stock-photo-beautiful-female-chef-on-color.jpg",
+        "name": "Sarah TayLor",
+        "experience": "14+ years",
+        "details": "John Smith is a renowned chef with a passion for creating unique and delicious dishes. He has worked in some of the world's most prestigious kitchens, honing his skills and developing his own signature style.",
+        "peopleRated": 3136,
+        "items":"41+ Recipes"
       }
       
 ]
