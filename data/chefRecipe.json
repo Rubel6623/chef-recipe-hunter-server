@@ -1,63 +1,92 @@
 [
+  {
+    "id": 1,
+    "recipes": [
       {
-        "id": 1,
-        "image_url": "https://example.com/chef1.jpg",
-        "details": {
-          "name": "John Smith",
-          "bio": "John Smith is a seasoned chef with over 20 years of experience in the culinary arts. He specializes in Italian cuisine and is known for his handmade pasta dishes.",
-          "location": "New York, NY",
-          "contact": {
-            "email": "john.smith@example.com",
-            "phone": "(123) 456-7890"
-          },
-          "experience": "20+ years",
-          "rating": 4.9
-        },
-        "recipes":[
-            {
-              "recipe_name": "Spaghetti Carbonara",
-              "image_url": "https://example.com/spaghetti_carbonara.jpg",
-              "description": "A classic Italian dish featuring spaghetti, pancetta, and a creamy sauce made with eggs and Parmesan cheese.",
-              "ingredients": [
-                "1 pound spaghetti",
-                "4 ounces pancetta or bacon, diced",
-                "4 large eggs",
-                "1 cup grated Parmesan cheese",
-                "1/2 cup heavy cream",
-                "Salt and black pepper to taste"
-              ],
-              "instructions": [
-                "Cook the spaghetti according to package directions until al dente.",
-                "While the pasta cooks, cook the pancetta in a large skillet over medium heat until crisp.",
-                "In a bowl, whisk together the eggs, Parmesan cheese, and heavy cream.",
-                "Drain the pasta and immediately add it to the skillet with the pancetta. Toss to combine.",
-                "Remove the skillet from the heat and pour in the egg mixture. Toss well to coat the pasta and cook the eggs slightly with the residual heat.",
-                "Season with salt and black pepper to taste.",
-                "Serve hot, garnished with additional Parmesan cheese if desired."
-              ]
-            },
-            {
-              "recipe_name": "Margherita Pizza",
-              "image_url": "https://example.com/margherita_pizza.jpg",
-              "description": "A simple and classic pizza featuring tomato sauce, mozzarella cheese, and fresh basil.",
-              "ingredients": [
-                "1 pound pizza dough",
-                "1/2 cup tomato sauce",
-                "8 ounces mozzarella cheese, shredded",
-                "Fresh basil leaves"
-              ],
-              "instructions": [
-                "Preheat the oven to 500°F.",
-                "Roll out the pizza dough on a lightly floured surface to your desired thickness and shape.",
-                "Spread the tomato sauce evenly over the dough, leaving a small border around the edge.",
-                "Sprinkle the shredded mozzarella cheese over the sauce.",
-                "Bake the pizza in the preheated oven for 10-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
-                "Remove the pizza from the oven and top with fresh basil leaves.",
-                "Slice and serve hot."
-              ]
-            }
-        ]
-        
+        "recipe_name": "Grilled Salmon with Lemon Butter",
+        "image_url": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg",
+        "ingredients": [
+          "salmon fillets",
+          "butter",
+          "lemon juice",
+          "garlic",
+          "salt",
+          "pepper"
+        ],
+        "directions": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt the butter over low heat. Add the garlic and cook until fragrant, about 1 minute. \n3. Add the lemon juice, salt, and pepper and stir to combine. \n4. Brush the salmon fillets with the lemon butter and place on the grill. \n5. Grill for 6-8 minutes per side, or until the salmon is cooked through. \n6. Serve hot with additional lemon butter sauce drizzled over the top."
+      },
+      {
+        "recipe_name": "Roasted Chicken with Herbs",
+        "image_url": "https://recipeteacher.com/wp-content/uploads/2021/12/air-fryer-herb-roasted-chicken-legs-1.jpg.webp",
+        "ingredients": [
+          "whole chicken",
+          "olive oil",
+          "rosemary",
+          "thyme",
+          "sage",
+          "garlic",
+          "salt",
+          "pepper"
+        ],
+        "directions": "1. Preheat oven to 425°F. \n2. Rinse the chicken inside and out with cold water and pat dry with paper towels. \n3. In a small bowl, combine the olive oil, herbs, garlic, salt, and pepper. \n4. Rub the herb mixture all over the chicken, making sure to get it under the skin as well. \n5. Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. \n6. Let the chicken rest for 10 minutes before carving and serving."
+      },
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "image_url": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-master768-v2.jpg?w=1280&q=75",
+        "ingredients": [
+          "1 pound spaghetti",
+          "4 ounces pancetta or bacon, diced",
+          "4 large eggs",
+          "1 cup grated Parmesan cheese",
+          "1/2 cup heavy cream",
+          "Salt and black pepper to taste"
+        ],
+        "directions": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt the butter over low heat. Add the garlic and cook until fragrant, about 1 minute. \n3. Add the lemon juice, salt, and pepper and stir to combine. \n4. Brush the salmon fillets with the lemon butter and place on the grill. \n5. Grill for 6-8 minutes per side, or until the salmon is cooked through. \n6. Serve hot with additional lemon butter sauce drizzled over the top."
       }
     ]
-  
+  },
+  {
+    "id": 2,
+    "recipes": [
+      {
+        "recipe_name": "Margherita Pizza",
+        "imageUrl": "https://recipes.heart.org/-/media/AHA/Recipe/Recipe-Images/Classic-Margherita-Pizza-with-Whole-Wheat-Pizza-Crust.jpg",
+        "ingredients": [
+          "1 pound pizza dough",
+          "1/2 cup tomato sauce",
+          "8 ounces mozzarella cheese, shredded",
+          "Fresh basil leaves"
+        ],
+        "directions": "1. Preheat oven to 425°F. \n2. Rinse the chicken inside and out with cold water and pat dry with paper towels. \n3. In a small bowl, combine the olive oil, herbs, garlic, salt, and pepper. \n4. Rub the herb mixture all over the chicken, making sure to get it under the skin as well. \n5. Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. \n6. Let the chicken rest for 10 minutes before carving and serving."
+      },
+      {
+        "recipe_name": "Roasted Chicken with Herbs",
+        "image_url": "https://recipeteacher.com/wp-content/uploads/2021/12/air-fryer-herb-roasted-chicken-legs-1.jpg.webp",
+        "ingredients": [
+          "whole chicken",
+          "olive oil",
+          "rosemary",
+          "thyme",
+          "sage",
+          "garlic",
+          "salt",
+          "pepper"
+        ],
+        "directions": "1. Preheat oven to 425°F. \n2. Rinse the chicken inside and out with cold water and pat dry with paper towels. \n3. In a small bowl, combine the olive oil, herbs, garlic, salt, and pepper. \n4. Rub the herb mixture all over the chicken, making sure to get it under the skin as well. \n5. Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. \n6. Let the chicken rest for 10 minutes before carving and serving."
+      },
+      {
+        "recipe_name": "Grilled Salmon with Lemon Butter",
+        "image_url": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg",
+        "ingredients": [
+          "salmon fillets",
+          "butter",
+          "lemon juice",
+          "garlic",
+          "salt",
+          "pepper"
+        ],
+        "directions": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt the butter over low heat. Add the garlic and cook until fragrant, about 1 minute. \n3. Add the lemon juice, salt, and pepper and stir to combine. \n4. Brush the salmon fillets with the lemon butter and place on the grill. \n5. Grill for 6-8 minutes per side, or until the salmon is cooked through. \n6. Serve hot with additional lemon butter sauce drizzled over the top."
+      }
+    ]
+  }
+]
